@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Linus related podcasts</title>
+  </head>
+  <body>
+    <outline title="Linux Action Show" type="rss" xmlUrl="http://feeds2.feedburner.com/TheLinuxActionShowOGG" htmlUrl="http://www.jupiterbroadcasting.com/show/linuxactionshow/"/>
+    <outline title="LINUX Unplugged" type="rss" xmlUrl="http://feeds.feedburner.com/linuxunogg" htmlUrl="http://www.jupiterbroadcasting.com/show/linuxun/"/>
+    <outline title="Bad Voltage" type="rss" xmlUrl="http://www.badvoltage.org/feed/ogg/" htmlUrl="http://www.badvoltage.org/"/>
+  </body>
+</opml>
