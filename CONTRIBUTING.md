@@ -9,6 +9,7 @@ If somebody feels stongly againts any of thease rules I'd happly change them, ju
 - Foreign language podcasts should be seperated into a seperate feeds.opml (feeds-es.opml for Spanish)
 - The main page (README.md) should be also be updated when adding an English podcast. Feel free to use [opml2html](https://github.com/Cj-Malone/opml2html) with Markdown and Unordered list selected.
 - If the podcast has multiple feeds, audio > video, ogg > mp3, 	Atom > RSS when selectng one.
+- https is also preferred, attempt to manually upgrade.
 
 # How to
 
