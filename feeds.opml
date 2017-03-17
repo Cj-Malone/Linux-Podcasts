@@ -13,5 +13,6 @@
     <outline title="Linux Voice" type="rss" xmlUrl="http://www.linuxvoice.com/podcast_ogg.rss" htmlUrl="https://www.linuxvoice.com/category/podcasts/"/>
     <outline title="mintCast" type="atom" xmlUrl="https://mintcast.org/category/ogg/feed/atom/" htmlUrl="https://mintcast.org/"/>
     <outline title="Going Linux" type="rss" xmlUrl="http://goinglinux.com/oggpodcast.xml" htmlUrl="http://goinglinux.com/index.html"/>
+    <outline title="Linux Kernel Podcast" type="atom" xmlUrl="http://www.kernelpodcast.org/feed/atom/" htmlUrl="http://www.kernelpodcast.org"/>
   </body>
 </opml>

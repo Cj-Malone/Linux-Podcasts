@@ -11,4 +11,5 @@ This repo holds a list of Linux podcasts, [subscribe to them all](https://keepaw
 - [[RSS](http://www.linuxvoice.com/podcast_ogg.rss)] [Linux Voice](https://www.linuxvoice.com/category/podcasts/)
 - [[ATOM](https://mintcast.org/category/ogg/feed/atom/)] [mintCast](https://mintcast.org/)
 - [[RSS](http://goinglinux.com/oggpodcast.xml)] [Going Linux](http://goinglinux.com/index.html)
+- [[ATOM](http://www.kernelpodcast.org/feed/atom/)] [Linux Kernel Podcast](http://www.kernelpodcast.org)
 
