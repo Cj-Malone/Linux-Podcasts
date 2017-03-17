@@ -1,6 +1,6 @@
 # Linux related podcasts
 
-This repo holds a list of Linux podcasts, [subscribe to them all](https://raw.githubusercontent.com/Cj-Malone/Linux-Podcasts/master/feeds.opml) or individually:
+This repo holds a list of Linux podcasts, [subscribe to them all](https://keepawayfromfire.co.uk/linux-podcasts/feeds.opml) or individually:
 
 - [[RSS](http://feeds2.feedburner.com/TheLinuxActionShowOGG)] [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/)
 - [[RSS](http://feeds.feedburner.com/linuxunogg)] [LINUX Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/)
