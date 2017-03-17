@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Linus related podcasts</title>
+    <title>Linux related podcasts</title>
   </head>
   <body>
     <outline title="Linux Action Show" type="rss" xmlUrl="http://feeds2.feedburner.com/TheLinuxActionShowOGG" htmlUrl="http://www.jupiterbroadcasting.com/show/linuxactionshow/"/>
     <outline title="LINUX Unplugged" type="rss" xmlUrl="http://feeds.feedburner.com/linuxunogg" htmlUrl="http://www.jupiterbroadcasting.com/show/linuxun/"/>
     <outline title="Bad Voltage" type="rss" xmlUrl="http://www.badvoltage.org/feed/ogg/" htmlUrl="http://www.badvoltage.org/"/>
+    <outline title="Late Night Linux" type="rss" xmlUrl="https://latenightlinux.com/feed/ogg/" htmlUrl="http://latenightlinux.com/"/>
+    <outline title="Ubuntu Podcast" type="rss" xmlUrl="http://feed.ubuntupodcast.org/ogg/" htmlUrl="http://ubuntupodcast.org/"/>
+    <outline title="SysCast" type="rss" xmlUrl="http://podcast.sysca.st/feed/podcast" htmlUrl="http://podcast.sysca.st/"/>
+    <outline title="Linux Voice" type="rss" xmlUrl="http://www.linuxvoice.com/podcast_ogg.rss" htmlUrl="https://www.linuxvoice.com/category/podcasts/"/>
+    <outline title="mintCast" type="atom" xmlUrl="https://mintcast.org/category/ogg/feed/atom/" htmlUrl="https://mintcast.org/"/>
+    <outline title="Going Linux" type="rss" xmlUrl="http://goinglinux.com/oggpodcast.xml" htmlUrl="http://goinglinux.com/index.html"/>
   </body>
 </opml>
