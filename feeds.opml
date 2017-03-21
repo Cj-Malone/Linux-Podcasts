@@ -14,5 +14,6 @@
     <outline title="mintCast" type="atom" xmlUrl="https://mintcast.org/category/ogg/feed/atom/" htmlUrl="https://mintcast.org/"/>
     <outline title="Going Linux" type="rss" xmlUrl="http://goinglinux.com/oggpodcast.xml" htmlUrl="http://goinglinux.com/index.html"/>
     <outline title="Linux Kernel Podcast" type="atom" xmlUrl="http://www.kernelpodcast.org/feed/atom/" htmlUrl="http://www.kernelpodcast.org"/>
+    <outline title="Destination Linux" type="rss" xmlUrl="https://nextdestinationlinux.podomatic.com/rss2.xml" htmlUrl="http://nextdestinationlinux.podomatic.com/"/>
   </body>
 </opml>
