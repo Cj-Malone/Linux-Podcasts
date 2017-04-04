@@ -13,4 +13,4 @@ This repo holds a list of Linux podcasts, [subscribe to them all](https://keepaw
 - [[RSS](http://goinglinux.com/oggpodcast.xml)] [Going Linux](http://goinglinux.com/index.html)
 - [[ATOM](http://www.kernelpodcast.org/feed/atom/)] [Linux Kernel Podcast](http://www.kernelpodcast.org)
 - [[RSS](https://nextdestinationlinux.podomatic.com/rss2.xml)] [Destination Linux](http://nextdestinationlinux.podomatic.com/)
-
+- [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:160113131/sounds.rss)] [simply elementary](http://simplyelementary.net/)
