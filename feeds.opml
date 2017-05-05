@@ -16,5 +16,11 @@
     <outline title="Linux Kernel Podcast" type="atom" xmlUrl="http://www.kernelpodcast.org/feed/atom/" htmlUrl="http://www.kernelpodcast.org"/>
     <outline title="Destination Linux" type="rss" xmlUrl="https://nextdestinationlinux.podomatic.com/rss2.xml" htmlUrl="http://nextdestinationlinux.podomatic.com/"/>
     <outline title="simply elementary" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:160113131/sounds.rss" htmlUrl="http://simplyelementary.net/"/>
+    <outline title="Penguin Punch" type="rss" xmlUrl="http://penguinpunch.com/index.xml" htmlUrl="http://penguinpunch.com/"/>
+    <outline title="Open Source Security Podcast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:252514543/sounds.rss" htmlUrl="https://www.opensourcesecuritypodcast.com/"/>
+    <outline title="SystemAU" type="rss" xmlUrl="http://feeds.feedburner.com/systemau-ogg" htmlUrl="https://systemau.net.au/"/>
+    <outline title="Best Linux Games Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:59417723/sounds.rss" htmlUrl="http://www.bestlinuxgames.com/"/>
+    <outline title="BoilingSteam Podcast" type="rss" xmlUrl="https://boilingsteam.com/feed/podcast" htmlUrl="https://boilingsteam.com/"/>
+    <outline title="Linux Game Cast" type="rss" xmlUrl="http://feeds.feedburner.com/LinuxgamecastWeeklyMp3" htmlUrl="https://linuxgamecast.com/"/>
   </body>
 </opml>
