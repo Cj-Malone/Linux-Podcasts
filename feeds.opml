@@ -22,5 +22,6 @@
     <outline title="Best Linux Games Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:59417723/sounds.rss" htmlUrl="http://www.bestlinuxgames.com/"/>
     <outline title="BoilingSteam Podcast" type="rss" xmlUrl="https://boilingsteam.com/feed/podcast" htmlUrl="https://boilingsteam.com/"/>
     <outline title="Linux Game Cast" type="rss" xmlUrl="http://feeds.feedburner.com/LinuxgamecastWeeklyMp3" htmlUrl="https://linuxgamecast.com/"/>
+    <outline title="Linux Action News" type="rss" xmlUrl="http://linuxactionnews.com/rss" htmlUrl="http://linuxactionnews.com/"/>
   </body>
 </opml>
